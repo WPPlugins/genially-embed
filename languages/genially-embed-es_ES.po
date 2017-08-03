@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Genially Embed\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: genially-embed\n"
+
+#. Text in echo
+#: admin_menu.php:1
+msgid "Add Genially"
+msgstr "Añadir Genially"
+
+#. Text in echo
+#: admin_menu.php:1
+msgid "Add your Genially"
+msgstr "Añadir tu Genially"
+
+#. Text in echo
+#: admin_menu.php:168
+msgid "Close"
+msgstr "Cerrar"
+
+#. Text in echo
+#: admin_menu.php:155
+msgid "Height"
+msgstr "Alto\t"
+
+#. Text in echo
+#: admin_menu.php:167
+msgid "Insert Genially"
+msgstr "Insertar Genially"
+
+#. Text in echo
+#: admin_menu.php:1
+msgid "Insert Genially in posts/pages"
+msgstr "Insertar Genially en entradas/páginas"
+
+#. Text in echo
+#: admin_menu.php:149
+msgid "Width"
+msgstr "Ancho"
